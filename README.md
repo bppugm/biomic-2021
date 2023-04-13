@@ -17,7 +17,7 @@ This is the copy of website for The 4<sup>th</sup> International Conference on B
 
 ### Icons
 
-+ [Font Awesome 6.4.0](https://fontawesome.com/docs/changelog/); [Fonticons Inc.](https://fontawesome.com/license)
++ [Font Awesome 6.4.0](https://fontawesome.com/docs/changelog/) © [Fonticons Inc.](https://fontawesome.com/license)
 
 ### Favicon
 
